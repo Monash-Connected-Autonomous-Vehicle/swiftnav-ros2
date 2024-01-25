@@ -2,7 +2,7 @@ swiftnav_ros2_driver:
   ros__parameters:
 
     # SwiftNav GNSS Receiver Interface
-    interface: 1 # 1: TCP Client, 2: Serial, 3: File
+    interface: 2 # 1: TCP Client, 2: Serial, 3: File
 
     # TCP Client (interface: 1)
     host_ip: "192.168.0.222"
