@@ -11,7 +11,7 @@ swiftnav_ros2_driver:
     write_timeout: 2000 # [ms]
 
     # Serial (interface: 2)
-    device_name: "/dev/ttyUSB0"
+    device_name: "/dev/ttyUSB1"
     connection_str: "115200|N|8|1|N"
 
     # File (interface: 3)
